@@ -1,0 +1,40 @@
+﻿Images des maths : http://images.math.cnrs.fr/
+Culture maths : http://culturemath.ens.fr/
+Maths Park : http://www.ihp.fr/seminaire/mathematic-park
+Interstices : interstices.info
+
+Wikipédia:
+Labyrinthe : https://fr.wikipedia.org/wiki/Labyrinthe
+Modélisation d'un labyrinthe : https://fr.wikipedia.org/wiki/Modélisation_mathématique_d'un_labyrinthe
+Maze solving algorithms : https://en.wikipedia.org/wiki/Maze_solving_algorithm
+Maze generation : https://en.wikipedia.org/wiki/Maze_generation_algorithm
+
+Think labyrinth : http://www.astrolog.org/labyrnth.htm
+
+Algorithme d’Eller : http://weblog.jamisbuck.org/2010/12/29/maze-generation-eller-s-algorithm
+
+Générations diverses : https://medium.com/@G3Kappa/generating-mazes-from-pictures-or-masking-entropy-4d050d148539#.mqm790a26
+
+Articles:
+http://idm-old.math.cnrs.fr/Labyrinthes-et-fil-d-Ariane.html
+https://interstices.info/jcms/c_46065/l-algorithme-de-pledge
+http://idm-old.math.cnrs.fr/Pavages-arbres-et-labyrinthes.html
+http://www.rfi.fr/emission/20130430-2-comment-sortir-labyrinthe
+https://grim7reaper.rolinh.ch/blog/2013/08/28/generation-et-resolution-de-labyrinthes-parfaits/
+http://www.ilay.org/yann/articles/maze/
+https://abstractionmathematique.wordpress.com/2016/06/18/comment-sortir-d-un-labyrinthe/
+http://img26.xooimage.com/files/c/7/5/cours-n-45_algori...-tremeaux-ec424c.pdf
+
+Livrables SCEI : http://www.scei-concours.fr/tipe/Livrables_V7.pdf
+
+
+Setup proxy Janson : 172.16.1.1:3128
+
+Illustration algorithme Trémaux: https://www.youtube.com/watch?v=6OzpKm4te-E
+Percolation : https://www.youtube.com/watch?v=5Bs8XMDVbV8
+
+Notes :
+Partie analytique : probabilités, percolation (proba il y a chemin sur lab totalement aléatoire).
+Estimation de complexité des programmes, par tests simulant : méthode des moindres carrés pour écart-type.
+Comparer aux fonctions usuelles.
+
