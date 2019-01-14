@@ -5,7 +5,7 @@ As a student in mathematics and physics preparing for last year's entrance exams
 
 ## Contents
 
-In this repository you will find two folders:
+In this repository you will find three folders:
 1. Code: all the programming stuff and experiments databases
    * Labyrinthes.py: all the basic data format and function to describe, generate and manipulate labyrinths
    * Exploration.py: implementation of the algorithms
@@ -13,5 +13,6 @@ In this repository you will find two folders:
    * Extraction.py: production, storing, analysis and complexities estimation of experiments results
    * The rest: databases and their respective creation scripts
 2. Images: different renders of execution steps and other illustration media
+3. Presentations: the presentation of a few slides I had to make for the exam and a bunch of links to web sites I encountered during my documentation research that might interest you.
 
 #### Enjoy!
